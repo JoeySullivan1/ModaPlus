@@ -34,13 +34,18 @@ La red incluirá los siguientes departamentos:
 | PC5         | 192.168.1.15 | 255.255.255.0 | 192.168.1.1 |
 | PC6         | 192.168.1.16 | 255.255.255.0 | 192.168.1.1 |
 | Router G0/0 | 192.168.1.1  | 255.255.255.0 | —           |
-| Router G0/1 | 192.168.1.1  | 255.255.255.0 | —           |
+
+##Contrasenas!
+
+Router: EdnaModas
+Switch 0: Admin
+Switch 1: Admin
 
 
 ## Roles y Responsabilidades
 
 
-| Nombre            | Rol en el Proyecto        | Responsabilidades                                 |
-|-------------------|---------------------------|---------------------------------------------------|
-| [Oficina ]        | Líder de Proyecto         | Coordinación general, validación de decisiones.   |
-| [Mostrador]       | Administrador de Red      | Diseño de subredes, configuración de routers.     |
+| Rol en el Proyecto        | Responsabilidades                                 |
+|---------------------------|---------------------------------------------------|
+| Líder de Proyecto         | Coordinación general, validación de decisiones.   |
+| Administrador de Red      | Diseño de subredes, configuración de routers.     |
