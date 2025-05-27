@@ -35,7 +35,7 @@ La red incluirá los siguientes departamentos:
 | PC6         | 192.168.1.16 | 255.255.255.0 | 192.168.1.1 |
 | Router G0/0 | 192.168.1.1  | 255.255.255.0 | —           |
 
-##Contrasenas!
+## Contrasenas!
 
 Router: EdnaModas
 Switch 0: Admin
